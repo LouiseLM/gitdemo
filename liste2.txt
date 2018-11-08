@@ -2,3 +2,6 @@ Indkøbsliste
 Brød
 Kaffe
 Kaffefløde
+Sodavand
+Chips
+Matadormix
