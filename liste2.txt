@@ -7,3 +7,5 @@ Chips
 Matadormix
 Ananas
 Kiwi
+bananer
+æbler
